@@ -1,2 +1,0 @@
-# codigoqr
-Leitor QRcode
